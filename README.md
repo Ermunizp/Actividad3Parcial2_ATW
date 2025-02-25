@@ -70,10 +70,10 @@ axios.get('/libro/getAll')
     .catch(error => console.error("Error:", error));
 ```
 
-## 🎯 Mejoras Futuras
-- Implementación de autenticación de usuarios.
-- Agregar paginación y búsqueda dinámica.
-- Uso de **SweetAlert** para notificaciones amigables.
+## 🎯 Tecnologías utilizadas:
+- PHP
+- Html
+- JScript
 
 
 
